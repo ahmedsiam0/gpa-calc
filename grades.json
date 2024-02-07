@@ -1,0 +1,28 @@
+{
+    "[CIS220] Computer Arch": [3, 4],
+    "[CIS270] Data Structure": [3, 4],
+    "[BSC225] Linear Algebra": [3, 4],
+    "[CIS230] Operations Research ": [3, 4],
+    "[CIS243] AI": [3, 4],
+
+    "[BSC221] Discrete": [3.00, 1.00],
+    "[CIS240] Stat": [3.00, 2.00],
+    "[CIS250] OOP": [3.00, 4.00],
+    "[CIS260] Logic": [3.00, 3.70],
+    "[CIS280] DBMS": [3.00, 3.00],
+    "[HUM113] Report": [2.00, 4.00],
+
+    "[BSC124] Electronics": [4.00, 1.00],
+    "[BSC125] Calculus II": [3.00, 1.00],
+    "[BSC126] Physics II": [3.00, 1.70],
+    "[CIS150] SP": [3.00, 4.00],
+    "[HUM222] Business": [2.00, 4.00],
+    "[HUM216] Ethics": [2.00, 3.00],
+    
+    "[HUM110] English": [2.00, 4.00],
+    "[BSC121] Physics I": [3.00, 2.70],
+    "[BSC122] Calculus I": [3.00, 3.00],
+    "[BSC123] Prob": [3.00, 4.00],
+    "[CIS160] Intro to CS": [3.00, 4.00],
+    "[HUM204] Psychology": [2.00, 3.30]
+}
